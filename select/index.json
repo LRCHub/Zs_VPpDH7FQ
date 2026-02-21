@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青春のエフェクト",
+  "base_artist": "α＋",
+  "createdAt": "2026-02-21T16:00:02.398165Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春のエフェクト",
+      "artist": "α+",
+      "has_synced": false,
+      "path": "select/pl_01_青春のエフェクト_α+.txt"
+    }
+  ]
+}
